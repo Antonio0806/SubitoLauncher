@@ -104,7 +104,7 @@ export default class DManager extends Component<Props> {
           <div className={styles.content} onScroll={this.handleScroll}>
             {this.props.instances.length === 0 ? (
               <h1 className={styles.NoServerCreated}>
-                YOU HAVEN'T ADDED ANY INSTANCE YET
+                There are no instances yet.
               </h1>
             ) : (
               <SortableList
