@@ -17,9 +17,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "GorillaDevs",
-    "email": "info@gdevs.io",
-    "url": "https://gdevs.io"
+    "name": "Antonio0806",
+    "email": "antonio0806123@gmail.com",
+    "url": "http://santosubito.xyz/subitolauncher"
   },
   "main": "./app/main.prod.js",
   "scripts": {
